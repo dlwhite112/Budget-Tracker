@@ -1,6 +1,6 @@
 # 💰 | Budget Tracker!
 
-> Description : 
+> Description : This application is a Budget Tracker application that allows for offline access and functionality. Users can enter offline deposits and expenses & the total will update when back online. Deployment with MongoDB and Heroku.
 
 ## Table of contents
 
